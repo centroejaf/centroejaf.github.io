@@ -13,7 +13,7 @@ header {
   text-align: center;
   padding: 2rem 1rem;
   color: white;
-  background: url('./images/equipe.jpeg') no-repeat center center/cover;
+  background: url('equipe.jpeg') no-repeat center center/cover;
   position: relative;
 }
 
